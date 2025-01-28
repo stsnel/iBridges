@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - develop
+      - fix-ci-yoda-2025-run-ci
     paths-ignore:
       - 'docs/**'
       - 'tutorials/**'
